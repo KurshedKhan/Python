@@ -1,0 +1,4 @@
+Responsive website rule
+	1.media rule
+	2.flex rule
+	3.size property use of relative 
